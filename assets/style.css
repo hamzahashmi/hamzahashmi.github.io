@@ -1,0 +1,147 @@
+/*ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+
+	display: inline-block;
+	margin-left: 15px;
+	text-align: center;
+}
+
+
+a{
+	width: 60px;
+}*/
+
+
+body{
+
+
+	background-color: orange;
+}
+
+
+
+.nav-container{
+	width: auto;
+	height: 200px;
+	position: relative;
+}
+
+#nav-content {
+	text-align: right;
+
+	color: white;
+}
+
+
+#nav-content ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#nav-content li {
+	display: inline-block;
+	margin-left: 15px;
+}
+
+
+.about-me-container{
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+
+}
+
+#about-me-content{
+
+	width: 50%;
+	height: 50%;
+	top: 25%;
+	margin: 0 auto;
+	position: relative;
+	background: orange;
+	text-align: center;
+
+
+}
+
+
+#para{
+	width: 50%;
+	height: 50%;
+	top: 25%;
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+	font-family: ‘Lucida Console’, Monaco, monospace;
+	color: white;
+	font-size: 24px;
+	margin-bottom: 50px;
+
+}
+
+
+
+#links{
+	width: 50%;
+	height: 50%;
+	top: 25%;
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+font-family: ‘Lucida Console’, Monaco, monospace;
+	color: white;
+	font-size: 16px;
+	display: inline;
+
+
+}
+
+
+.button{
+
+	background-color:#5e90af;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	padding:16px 31px;
+	text-decoration:none;
+	margin-left: 15px;
+
+}
+
+
+
+
+
+
+
+
+
+#social-media-container{
+	width: auto;
+	height: 200px;
+
+}
+
+
+#message{
+	color: #43677D;
+
+
+
+}
+
+
+
+
